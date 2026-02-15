@@ -116,6 +116,7 @@ xkeen -i
 
 - XKeen UI — https://github.com/zxc-rv/XKeen-UI
 - XKeen UI — https://github.com/umarcheh001/Xkeen-UI
+- Генератор Outbound — https://zxc-rv.github.io/XKeen-UI/Outbound_Generator/
 - SubKeen — https://github.com/V2as/SubKeen
 - Mihomo Studio — https://github.com/l-ptrol/mihomo_studio
 - Конвертер JSON-подписок — https://sngvy.github.io/json-sub-to-outbounds
